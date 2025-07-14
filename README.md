@@ -1,4 +1,4 @@
-# 🎧 Spotify Power BI Dashboard
+# 🎧 Spotify Dashboard | Power BI Project
 
 An immersive, interactive Power BI dashboard that explores Spotify’s most-streamed tracks of 2023.
 Crafted with a custom-designed Figma background, this project blends real-world music data, audio feature analysis, and sleek visual storytelling — delivering a dynamic, Spotify-themed analytics experience built on an external dataset.
