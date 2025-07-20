@@ -162,5 +162,5 @@ Crafted with a custom-designed Figma background, this project blends real-world 
 If you found this project helpful or inspiring:
 
 - ⭐ Star this repository  
-- 🛠️ Fork it and add your own city or country  
+- 🛠️ Fork it to build upon or adapt it for your own use
 - 💬 Share feedback or suggestions via Issues/Discussions
